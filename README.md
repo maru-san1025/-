@@ -1,4 +1,3 @@
-[11.html](https://github.com/user-attachments/files/25142908/11.html)
 <!DOCTYPE html>
 <html lang="ja">
     <head>
@@ -44,7 +43,8 @@
         </style>
         </head>
         <body>
-            <div id="parent">
+            <div id="parent">![tokyo](https://github.com/user-attachments/assets/07ed7931-94c0-40ce-a0d0-230a1e5a9eec)
+
                 <div class = "child center"
                 id = "child1"></div>
              
